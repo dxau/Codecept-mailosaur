@@ -1,0 +1,24 @@
+{
+  "name": "codecept-mailosaur",
+  "version": "1.0.0",
+  "description": "Codeceptjs plugin for mailosaur",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dxau/Codecept-mailosaur.git"
+  },
+  "author": "Marcus Lau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dxau/Codecept-mailosaur/issues"
+  },
+  "homepage": "https://github.com/dxau/Codecept-mailosaur#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
