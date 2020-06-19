@@ -1,17 +1,18 @@
 module.exports = {
-  'env': {
-    'browser': true,
-    'es2020': true,
+  env: {
+    browser: true,
+    es2020: true,
   },
-  'extends': [
+  extends: [
     'google',
   ],
-  'parserOptions': {
-    'ecmaVersion': 11,
-    'sourceType': 'module',
+  parserOptions: {
+    ecmaVersion: 11,
+    sourceType: 'module',
   },
-  'rules': {
+  rules: {
     'valid-jsdoc': 0,
     'require-jsdoc': 0,
+    'max-len': [error, {code: 100}],
   },
 };
