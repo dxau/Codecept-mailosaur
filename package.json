@@ -18,7 +18,7 @@
   "homepage": "https://github.com/dxau/Codecept-mailosaur#readme",
   "dependencies": {},
   "devDependencies": {
-    "codeceptjs": "^2.6.5",
+    "codeceptjs": "^3.0.0",
     "eslint": "^7.2.0",
     "eslint-config-google": "^0.14.0",
     "mailosaur": "^6.0.9"
